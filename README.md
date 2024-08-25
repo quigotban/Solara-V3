@@ -1,6 +1,7 @@
 # Solara-V3
 
-![d3345589de0ddfe265b92963100535e4](https://github.com/user-attachments/assets/114b7f49-c352-419f-8b77-2b12255804d7)
+![image](https://github.com/user-attachments/assets/3396ee90-f51a-4ccb-9738-ddf8c8138fb6)
+
 
 # The first and best external IDE after Hyperion's introduction.
 

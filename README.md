@@ -4,7 +4,7 @@
 
 
 # The first and best external IDE after Hyperion's introduction.
-OFFICIAL SOLARA DISCORD: https://discord.gg/7g2ywMpV
+OFFICIAL SOLARA DISCORD: https://discord.gg/vZ7rfdsV
 
 HOW TO; Download ZIP file 'Solara V3', extract to specified folder/directory, run file. Enjoy.
 
